@@ -1,1 +1,3 @@
-![Header](https://github.com/doppoluv/doppoluv/blob/main/assets/gif.gif)
+<div align="center" style="margin: -20px 0 -10px 0;">
+  <img src="assets/gif.gif" style="width: 100%; max-width: 800px;" alt="Gif" />
+</div>
