@@ -13,12 +13,12 @@
 
   <div style="margin-top: 10px;">
     <h4 style="font-size: 14px; margin: 0 0 2px 0;">Languages in repositories</h4>
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=doppoluv&layout=compact&langs_count=8&theme=radical" alt="Top languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=doppoluv&layout=compact&langs_count=8&theme=light" alt="Top languages" />
   </div>
 
   <div style="margin-top: 10px;">
     <h4 style="font-size: 14px; margin: 0 0 2px 0;">LeetCode statistics</h4>
-    <img src="https://leetcard.jacoblin.cool/doppoluv?theme=dark&font=Baloo%202" alt="LeetCode stats" width="300" />
+    <img src="https://leetcard.jacoblin.cool/doppoluv?theme=light&font=Baloo%202" alt="LeetCode stats" width="300" />
   </div>
 
   <div style="margin-top: 12px;">
@@ -30,5 +30,5 @@
 </div>
 
 <div align="center" style="margin-top: 1px;">
-  <img src="https://komarev.com/ghpvc/?username=doppoluv&color=orange" alt="Profile views" width="100" />
+  <img src="https://komarev.com/ghpvc/?username=doppoluv&color=blue" alt="Profile views" width="100" />
 </div>
