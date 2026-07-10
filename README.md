@@ -3,7 +3,7 @@
 </div>
 
 <div align="left" style="margin: 12px 0 16px 0;">
-  <img src="assets/gif.gif" width="450" align="right" alt="Profile animation" />
+  <img src="assets/gif.gif" width="446" align="right" alt="Profile animation" />
 
   <h4 style="margin: 0 0 2px 0; font-size: 16px;">About me</h4>
   <ul style="margin: 0; padding-left: 18px; font-size: 13px; line-height: 1.4;">
