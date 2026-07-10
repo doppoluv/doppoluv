@@ -5,21 +5,24 @@
 <div align="left" style="margin: 12px 0 16px 0;">
   <img src="assets/gif.gif" width="450" align="right" alt="Profile animation" />
 
-  <h4 style="margin: 0 0 4px 0; font-size: 16px;">About me</h4>
-  <p style="margin: 0; font-size: 13px; line-height: 1.4;">21 y. o. Student at NSU. Trainee at SberTech</p>
+  <h4 style="margin: 0 0 2px 0; font-size: 16px;">About me</h4>
+  <ul style="margin: 0; padding-left: 18px; font-size: 13px; line-height: 1.4;">
+    <li>Student at NSU</li>
+    <li>Trainee at SberTech</li>
+  </ul>
 
   <div style="margin-top: 10px;">
-    <h4 style="font-size: 14px; margin: 0 0 4px 0;">Languages in repositories</h4>
+    <h4 style="font-size: 14px; margin: 0 0 2px 0;">Languages in repositories</h4>
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=doppoluv&layout=compact&langs_count=8&theme=radical" alt="Top languages" />
   </div>
 
   <div style="margin-top: 10px;">
-    <h4 style="font-size: 14px; margin: 0 0 4px 0;">LeetCode statistics</h4>
+    <h4 style="font-size: 14px; margin: 0 0 2px 0;">LeetCode statistics</h4>
     <img src="https://leetcard.jacoblin.cool/doppoluv?theme=dark&font=Baloo%202" alt="LeetCode stats" width="300" />
   </div>
 
   <div style="margin-top: 12px;">
-    <h4 style="font-size: 14px; margin: 0 0 4px 0;">Contacts</h4>
+    <h4 style="font-size: 14px; margin: 0 0 2px 0;">Contacts</h4>
     <a href="mailto:semen.inokov2@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat" alt="Gmail" />
     </a>
