@@ -16,11 +16,6 @@
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=doppoluv&layout=donut-vertical&langs_count=6" alt="Top languages" />
   </div>
 
-  <div style="margin-top: 10px;">
-    <h4 style="font-size: 14px; margin: 0 0 2px 0;">LeetCode statistics</h4>
-    <img src="https://leetcard.jacoblin.cool/doppoluv?theme=light&font=Baloo%202" alt="LeetCode stats" width="300" />
-  </div>
-
   <div style="margin-top: 12px;">
     <h4 style="font-size: 14px; margin: 0 0 2px 0;">Contacts</h4>
     <a href="mailto:semen.inokov2@gmail.com" target="_blank">
