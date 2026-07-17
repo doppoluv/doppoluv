@@ -13,7 +13,7 @@
 
   <div style="margin-top: 10px;">
     <h4 style="font-size: 14px; margin: 0 0 2px 0;">Languages in repositories</h4>
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=doppoluv&layout=compact&langs_count=10&theme=light" alt="Top languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=doppoluv&layout=donut-vertical&langs_count=6" alt="Top languages" />
   </div>
 
   <div style="margin-top: 10px;">
