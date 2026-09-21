@@ -8,7 +8,7 @@
   <h4 style="margin: 0 0 2px 0; font-size: 16px;">About me</h4>
   <ul style="margin: 0; padding-left: 18px; font-size: 13px; line-height: 1.4;">
     <li>Student at NSU</li>
-    <li>Trainee at SberTech</li>
+    <li>Ex-trainee at SberTech</li>
   </ul>
 
   <div style="margin-top: 10px;">
