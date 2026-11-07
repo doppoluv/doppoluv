@@ -8,12 +8,19 @@
   <h4 style="margin: 0 0 2px 0; font-size: 16px;">About me</h4>
   <ul style="margin: 0; padding-left: 18px; font-size: 13px; line-height: 1.4;">
     <li>Student at NSU</li>
-    <li>Ex-trainee at SberTech</li>
+    <li>Traineed at SberTech</li>
   </ul>
 
   <div style="margin-top: 10px;">
     <h4 style="font-size: 14px; margin: 0 0 2px 0;">Languages in repositories</h4>
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=doppoluv&layout=donut-vertical&langs_count=6" alt="Top languages" />
+  </div>
+
+  <div style="margin-top: 12px;">
+    <h4 style="font-size: 14px; margin: 0 0 2px 0;">My LeetCode</h4>
+    <a href="https://leetcode.com/u/doppoluv/">
+      <img src="https://leetcard.jacoblin.cool/doppoluv?theme=light,dark" width="380" alt="LeetCode stats" />
+    </a>
   </div>
 
   <div style="margin-top: 12px;">
