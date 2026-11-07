@@ -11,6 +11,28 @@
     <li>Traineed at SberTech</li>
   </ul>
 
+  <div style="margin-top: 12px;">
+    <h4 style="font-size: 14px; margin: 0 0 6px 0;">Skills</h4>
+    <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" alt="C" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
+  </div>
+
+  <div style="margin-top: 12px;">
+    <h4 style="font-size: 14px; margin: 0 0 6px 0;">Also worked with</h4>
+    <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/Assembly-555555" alt="Assembly" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite" />
+    <img src="https://img.shields.io/badge/gRPC-244C5A?logo=grpc&logoColor=white" alt="gRPC" />
+    <img src="https://img.shields.io/badge/Protobuf-4285F4" alt="Protobuf" />
+    <img src="https://img.shields.io/badge/ELK%20Stack-005571?logo=elastic&logoColor=white" alt="ELK Stack" />
+  </div>
+
   <div style="margin-top: 10px;">
     <h4 style="font-size: 14px; margin: 0 0 2px 0;">Languages in repositories</h4>
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=doppoluv&layout=donut-vertical&langs_count=6" alt="Top languages" />
